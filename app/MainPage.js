@@ -36,7 +36,7 @@ export default function MainPage() {
                             <li>
                                 <a
                                     className='bg-gradient-to-r from-purple-500 to-red-600 text-white px-4 py-2 rounded-md ml-8'
-                                    href='/public/resume.pdf'
+                                    href='https://portfolio-acunha.vercel.app/resume.pdf'
                                     download='resume.pdf'
                                 >
                                     Download CV
@@ -49,7 +49,7 @@ export default function MainPage() {
                         <br />
                         <h3 className='text-2xp py-2 md:text-3xl dark:text-gray-50'>Front End Developer</h3>
                         <p className='text-md py-5 leading-8 text-gray-400  md:text-xl max-w-lg mx-auto'>Hello, I'm Alexandre, and I'm a front-end web developer.</p>
-                        <p className='text-md py-5 leading-8 text-gray-400  md:text-xl max-w-lg mx-auto'>So far, I have gained<span className='text-violet-500'>entry-level</span> experience with the <span className='text-violet-500'>MERN Tech Stack</span> meaning I have worked with JavaScript, Typescript, React, Node, Express, ES6, MongoDB, HTML & CSS. In the meantime, I have also gained a good grasp of AGILE and SCRUM methodologies, used nowadays for application development all over the world.</p>
+                        <p className='text-md py-5 leading-8 text-gray-400  md:text-xl max-w-lg mx-auto'>So far, I have gained <span className='text-violet-500'>entry-level</span> experience with the <span className='text-violet-500'>MERN Tech Stack</span> meaning I have worked with JavaScript, Typescript, React, Node, Express, ES6, MongoDB, HTML & CSS. In the meantime, I have also gained a good grasp of AGILE and SCRUM methodologies, used nowadays for application development all over the world.</p>
                         <p className='text-md py-5 leading-8 text-gray-400  md:text-xl max-w-lg mx-auto'>Check out my Github and LinkedIn pages down below!</p>
                     </div>
                     <div className='text-5xl flex justify-center gap-16 py-3 text-gray-400'>
