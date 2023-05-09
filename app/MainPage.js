@@ -38,6 +38,7 @@ export default function MainPage() {
                                     className='bg-gradient-to-r from-purple-500 to-red-600 text-white px-4 py-2 rounded-md ml-8'
                                     href='https://portfolio-acunha.vercel.app/resume.pdf'
                                     download='resume.pdf'
+                                    target="_blank"
                                 >
                                     Download CV
                                 </a>
