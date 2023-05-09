@@ -67,7 +67,7 @@ export default function MainPage() {
                         <br />
                         <p className='text-md py-5 leading-8 text-gray-400'>Having <span className='text-orange-500'>majored in Biomedical Laboratory Science</span> this means I was responsible for drawing/receiving samples from patients in clinics and, more recently, from a hospital and it's Emergency Room. During my time there I honed my teamwork and learning skills, in order to improve the teams' response time and efficiency.</p>
                         <p className='text-md py-5 leading-8 text-gray-400'>While searching for new things to learn and for a new chance in a new field of work I then decided to enrol in <span className='text-orange-500'>Ironhack's Web Development Bootcamp in September 2022</span> and during that time I have a new-found passion for tech and learning web development as a hard skill.</p>
-                        <p className='text-md py-5 leading-8 text-gray-400'>I am now currently looking into getting my first position as a <span className='text-orange-500'>Front-End Developer</span> and to increase my knowledge in new tech as much as I can, while finding interesting and motivating teams and projects along the way!</p>
+                        <p className='text-md py-5 leading-8 text-gray-400'>I am currently looking into getting my first position as a <span className='text-orange-500'>Front-End Developer</span> and to increase my knowledge in new tech as much as I can, while finding interesting and motivating teams and projects along the way!</p>
                     </div>
                     <div className="lg:flex gap-10 mx-4 dark:text-white text-black">
                         <div className="text-center shadow-lg p-5 rounded-xl my-10 flex-1">
