@@ -36,7 +36,7 @@ export default function MainPage() {
                             <li>
                                 <a
                                     className='bg-gradient-to-r from-purple-500 to-red-600 text-white px-4 py-2 rounded-md ml-8'
-                                    href='../public/resume.pdf'
+                                    href='/public/resume.pdf'
                                     download='resume.pdf'
                                 >
                                     Download CV
@@ -110,17 +110,17 @@ export default function MainPage() {
                         <p className='text-center text-sm py-5 leading-8 text-gray-400  md:text-xl max-w-xl mx-auto'>Ever since I started my bootcamp I have developed some projects and colaborated with talented people to create some cool apps. Here are some examples:</p>
                         <div className='flex flex-col gap-10 py-10 lg:flex-row lg:flex-wrap text-center leading-4 text-gray-400 md:text-sm max-w-2xl mx-auto'>
                             <div className='basis-1/3 lg:basis-1/3 flex-1'>
-                                <a href='https://hackernoid.netlify.app/' target="_blank"><Image className='rounded-lg object-cover py-4' src={hackanoid} width={500} height={500} responsive alt='#' /></a>
+                                <a href='https://hackernoid.netlify.app/' target="_blank"><Image className='rounded-lg object-cover py-4' src={hackanoid} width={500} height={500} responsive="true" alt='#' /></a>
                                 <h3 className='text-center text-3xl py-4 dark:text-white text-black'>Hackanoid</h3>
                                 <p>A single-player game using JavaScript (Canvas), HTML&CSS heavily inspired by Arkanoid, where players control a paddle-like craft and clear a formation of colorful blocks using a ball.</p>
                             </div>
                             <div className='basis-1/3 lg:basis-1/3 flex-1'>
-                                <a href='https://ironfox.cyclic.app/' target="_blank"><Image className='rounded-lg object-cover py-4' src={ironfox} width={500} height={500} responsive alt='#' /></a>
+                                <a href='https://ironfox.cyclic.app/' target="_blank"><Image className='rounded-lg object-cover py-4' src={ironfox} width={500} height={500} responsive="true" alt='#' /></a>
                                 <h3 className='text-center text-3xl py-4 dark:text-white text-black'>IronFox</h3>
                                 <p>Using Kitsu API, along with my knowledge of Node.JS, Express.JS, MongoDB, Mongoose and Handlebars, this is an app to register, search and save your favorite anime!</p>
                             </div>
                             <div className='basis-1 lg:basis-1/2 flex-1'>
-                                <a href='https://medv1ce.netlify.app/' target="_blank"><Image className='rounded-lg object-cover py-4 inline-block' src={medvice} width={500} height={500} responsive alt='#' /></a>
+                                <a href='https://medv1ce.netlify.app/' target="_blank"><Image className='rounded-lg object-cover py-4 inline-block' src={medvice} width={500} height={500} responsive="true" alt='#' /></a>
                                 <h3 className='text-center text-3xl py-4 dark:text-white text-black'>MedVice</h3>
                                 <p>A React App that allows you to generate boxes for easy tracking based on form information submitted by a registered user or filled using the OpenFDA API.</p>
                             </div>
